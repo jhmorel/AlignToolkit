@@ -24,10 +24,6 @@ Align Toolkit is a Blender addon that offers tools to enhance and streamline you
 
 Once installed, the tools provided by Align Toolkit can be accessed through the `Object` menu in the 3D Viewport or via the shortcut keys assigned to each function. Refer to the documentation for detailed usage instructions and examples.
 
-### Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request. Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
-
 ### License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
