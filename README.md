@@ -15,7 +15,7 @@ Align Toolkit is a Blender addon that offers tools to enhance and streamline you
 
 ### Installation
 
-1. Download the latest release of the addon from the [Releases](https://github.com/yourusername/AlignToolkit/releases) page.
+1. Download the latest release of the addon from the [Releases](https://github.com/jhmorel/AlignToolkit/releases) page.
 2. In Blender, go to `Edit > Preferences > Add-ons`.
 3. Click `Install...` and select the downloaded ZIP file.
 4. Enable the addon by checking the box next to "AlignToolkit".
