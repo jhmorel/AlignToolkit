@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AlignToolkit_Banner.png" alt="Banner Image" />
+</p>
+
 ## Align Toolkit
 
 **Author:** Javier Hernández Morel
