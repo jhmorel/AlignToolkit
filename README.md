@@ -12,10 +12,10 @@ Align Toolkit is a Blender addon that offers tools to enhance and streamline you
 
 ### Features
 
-- **Align Cursor to Normal**: Quickly align the 3D cursor to the normal of a selected face or vertex.
-- **Align Object to Cursor**: Align selected objects to the position and orientation of the 3D cursor.
-- **Set Pivot to Base**: Set the pivot point of an object to its base, ideal for accurate positioning.
-- **Set Pivot to Cursor**: Move the pivot point of an object to the location of the 3D cursor.
+- **Align Cursor to Normal**: Aligns the 3D cursor to the normal of the selected face, edge or vertex.
+- **Align Object to Cursor**: Aligns the selected object to the 3D cursor.
+- **Set Pivot to Base**: Sets the pivot point to the base of the selected object.
+- **Set Pivot to Cursor**: Sets the pivot point to the location and orientation of the 3D cursor.
 
 ### Installation
 
