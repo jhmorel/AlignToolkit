@@ -13,6 +13,7 @@ from . import align_cursor_to_normal
 from . import align_object_to_cursor
 from . import set_pivot_to_base
 from . import set_pivot_to_cursor
+from . import align_view_to_cursor
 
 # Lista de sub-addons
 sub_addons = [
@@ -20,6 +21,7 @@ sub_addons = [
     align_object_to_cursor,
     set_pivot_to_base,
     set_pivot_to_cursor,
+    align_view_to_cursor,
 ]
 
 def register():
@@ -30,3 +32,6 @@ def register():
 def unregister():
     for addon in sub_addons:
         addon.unregister()
+
+if __name__ == "__main__":
+    register()

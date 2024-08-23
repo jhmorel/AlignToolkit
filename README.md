@@ -16,6 +16,7 @@ Align Toolkit is a Blender addon that offers tools to enhance and streamline you
 - **Align Object to Cursor**: Aligns the selected object to the 3D cursor.
 - **Set Pivot to Base**: Sets the pivot point to the base of the selected object.
 - **Set Pivot to Cursor**: Sets the pivot point to the location and orientation of the 3D cursor.
+- **Align View to Cursor**: Aligns the 3D view to the 3D cursor, allowing for quick focus on the cursor's position.
 
 ### Installation
 
@@ -27,6 +28,12 @@ Align Toolkit is a Blender addon that offers tools to enhance and streamline you
 ### Usage
 
 Once installed, the tools provided by Align Toolkit can be accessed through the `Object` menu in the 3D Viewport or via the shortcut keys assigned to each function. Refer to the documentation for detailed usage instructions and examples.
+
+### About the Addon
+
+This addon was designed for my personal convenience, primarily to streamline processes when modeling environments. It may contain bugs, and I would greatly appreciate if you could report them as we are actively working on fixing them and adding new features as they arise.
+
+This is a free-to-use tool, and I hope it proves useful. If you'd like to support me as a 3D artist, you can do so on Ko-fi: [ko-fi.com/jhmorel](https://ko-fi.com/jhmorel).
 
 ### License
 
